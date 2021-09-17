@@ -1,4 +1,6 @@
-# ai50-projects-2020-x-minesweeper
+# Minesweeper
+
+Minesweeper created using Reinforcement Learning.
 
 Run runner.py file to play Minesweeper Game.
 Press "AI Select" for AI making move.
